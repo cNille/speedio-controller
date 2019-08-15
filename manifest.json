@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Speedio Controller",
+    "description": "This extension lets you controll the speed of videos",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "speedio-logo.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
